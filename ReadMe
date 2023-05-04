@@ -1,0 +1,4 @@
+CTRL+C the entire ALT1 step instruction.
+Run the ClueSolver.py in a program such as PyCharm
+PyCharm will overwrite your clipboard with a organized AHK script
+Finally, run the AHK script while having the Puzzlebox visable on screen
