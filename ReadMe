@@ -1,3 +1,8 @@
+Hello there, thanks for checking out my Python script, this is still a WIP and i'm looking to turn this into a plugin with UI at some point.
+Feel free to use this code however you see fit, or perheaps give comments about further improvements i could make.
+Keep in mind that use of macro is against Jagex's ToS so use this at your own risk. Have fun!
+
+
 CTRL+C the entire ALT1 step instruction.
 Run the ClueSolver.py in a program such as PyCharm
 PyCharm will overwrite your clipboard with a organized AHK script
